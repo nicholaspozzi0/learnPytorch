@@ -1,0 +1,2 @@
+# learnPytorch
+Corso di pytorch
